@@ -12,3 +12,7 @@ Recently, my interest has shifted to [Julialang](https://julialang.org/) (happen
 2. [Read-Select-Modify](http://nbviewer.jupyter.org/github/findmyway/DataFrame-in-Julia/blob/master/Read-Select-Modify.ipynb)
 3. [Split-Apply-Combine](http://nbviewer.jupyter.org/github/findmyway/DataFrame-in-Julia/blob/master/Split-Apply-Combine.ipynb)
 4. [Query Query Query](http://nbviewer.jupyter.org/github/findmyway/DataFrame-in-Julia/blob/master/Query%20Query%20Query.ipynb)
+
+## Other Resources
+
+- [Julia-DataFrames-Tutorial](https://github.com/bkamins/Julia-DataFrames-Tutorial)
